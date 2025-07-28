@@ -1,8 +1,12 @@
 <h1 align="center">
-  Hi 👋, I'm Aman Verma
+  Hi 👋, I'm Aman Verma  
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Software+Developer;Passionate+about+Tech+%26+Learning;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Developer;College+Chatbot+Builder;Python+%7C+Java+%7C+FastAPI+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanverma166&label=Profile+Views&color=blueviolet&style=flat" alt="amanverma166" />
@@ -12,14 +16,14 @@
 
 ### 🔧 About Me
 
-- 🔭 I’m currently working on: **College Chatbot**
-- 🌱 Learning: **Python FastAPI**
-- 💬 Ask me about: **DSA, Python, Java, Web Dev**
-- 📫 Contact me: [amanv5174@gmail.com](mailto:amanv5174@gmail.com)
+- 🔭 I’m currently working on: **College Chatbot**  
+- 🌱 Learning: **Python FastAPI**  
+- 💬 Ask me about: **DSA, Web Dev, Java, Python**  
+- 📫 Reach me: [amanv5174@gmail.com](mailto:amanv5174@gmail.com)
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="mailto:amanv5174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -29,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠 Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,spring,fastapi,mysql,postgresql,oracle,figma,git,github,postman" />

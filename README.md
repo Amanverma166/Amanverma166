@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Aman Verma  
+  🚀 Hi 👋, I'm Aman Verma  
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Developer;College+Chatbot+Builder;Python+%7C+Java+%7C+FastAPI+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
@@ -41,6 +41,16 @@
 
 ---
 
+### 🛰️ Live Animated Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -69,3 +79,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150" />
+</p>

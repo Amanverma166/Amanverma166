@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Aman Verma  
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Developer;College+Chatbot+Builder;Python+%7C+Java+%7C+FastAPI+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=FullStack+Developer;College+Chatbot+Builder;Python+%7C+Java+%7C+FastAPI+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
